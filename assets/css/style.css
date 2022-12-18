@@ -16,7 +16,7 @@ body {
 }
 #featuredProduct {
   grid-area: featuredProduct;
-  background-image: url(/assets/images/furniture1.PNG);
+  background-image: url(/assets/images/furniture1.jpg);
 
 }
 #secondaryProduct {
