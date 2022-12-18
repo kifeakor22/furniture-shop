@@ -16,16 +16,16 @@ body {
 }
 #featuredProduct {
   grid-area: featuredProduct;
-  background-image: url(/assets/images/furniture1.png);
+  background-image: url(./assets/images/furniture1.png);
 
 }
 #secondaryProduct {
   grid-area: secondaryProduct;
-  background-image: url(/assets/images/furniture2.png)
+  background-image: url(./assets/images/furniture2.png)
 }
 #CTA {
   grid-area: CTA;
-  background-image: url(/assets/images/woodbg.png);
+  background-image: url(./assets/images/woodbg.png);
   justify-content: space-around;
   cursor: pointer;
 }
@@ -69,23 +69,23 @@ body {
 
 #bookcases {
   grid-area: bookcases;
-  background-image: url(/assets/images/bookcases.png);
+  background-image: url(./assets/images/bookcases.png);
 }
 #bedroom {
   grid-area: bedroom;
-  background-image: url(/assets/images/beds.png);
+  background-image: url(./assets/images/beds.png);
 }
 #couches {
   grid-area: couches;
-  background-image: url(/assets/images/couch.png);
+  background-image: url(./assets/images/couch.png);
 }
 #patio {
   grid-area: patio;
-  background-image: url(/assets/images/patio.png);
+  background-image: url(./assets/images/patio.png);
 }
 #desks {
   grid-area: desks;
-  background-image: url(/assets/images/desks.png);
+  background-image: url(./assets/images/desks.png);
 }
 .categoryGridArea {
   background-position: center;
